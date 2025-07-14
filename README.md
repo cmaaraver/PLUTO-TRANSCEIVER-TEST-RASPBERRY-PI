@@ -1,27 +1,29 @@
-# PlutoSDR Professional Control
+# PLUTO SDR TRANSCEIVER TEST
 
-Aplicación profesional para control y monitoreo de PlutoSDR con interfaz gráfica.
+Sistema profesional de pruebas y análisis para transceptores PlutoSDR.
 
 ## Descripción
 
-Esta aplicación proporciona una interfaz gráfica profesional para el control y monitoreo de dispositivos PlutoSDR, permitiendo:
+PLUTO SDR TRANSCEIVER TEST es una aplicación profesional diseñada para realizar pruebas exhaustivas y monitoreo en tiempo real de dispositivos PlutoSDR. Proporciona una interfaz gráfica avanzada con capacidades de:
 
 - Transmisión y recepción QPSK
-- Visualización de diagrama de constelación en tiempo real
-- Monitoreo de métricas (BER, SNR, PER)
-- Control preciso de frecuencia y ganancia
-- Logging detallado de operaciones
+- Análisis de calidad del enlace en tiempo real
+- Visualización de constelación dinámica
+- Monitoreo de métricas críticas (BER, SNR, PER)
+- Registro detallado de operaciones
 
 ## Requisitos del Sistema
 
 - Python 3.8 o superior
-- PlutoSDR físico conectado vía USB o red
-- Sistema operativo compatible (Linux/Windows)
-- Permisos de administrador para la instalación
+- PlutoSDR (dispositivo físico)
+- Conexión USB o red al PlutoSDR
+- Sistema operativo:
+  - Linux (Ubuntu 20.04 o superior recomendado)
+  - Windows 10/11 con WSL2 (opcional)
 
-## Instalación
+## Instalación Rápida
 
-1. Clone o descargue este repositorio:
+1. Clone el repositorio:
 ```bash
 git clone https://github.com/cmaaraver/PLUTO-TRANSCEIVER-TEST-RASPBERRY-PI.git
-cd pluto-sdr-professional
+cd pluto-sdr-transceiver
