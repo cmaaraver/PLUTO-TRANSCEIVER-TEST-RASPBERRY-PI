@@ -1,2 +1,2 @@
-chmod +x install_dependencies.sh
-./install_dependencies.sh
+chmod +x install_pluto_dependencies.sh
+./install_pluto_dependencies.sh
