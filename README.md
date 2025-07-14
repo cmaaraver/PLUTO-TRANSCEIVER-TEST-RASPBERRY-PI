@@ -23,5 +23,5 @@ Esta aplicación proporciona una interfaz gráfica profesional para el control y
 
 1. Clone o descargue este repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone (https://github.com/cmaaraver/PLUTO-TRANSCEIVER-TEST-RASPBERRY-PI.git)
 cd pluto-sdr-professional
